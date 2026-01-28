@@ -28,6 +28,8 @@ Mening asosiy maqsadim — frontend sohasida yuqori darajadagi mutaxassis boʻli
 ---
 
 ⚡ GitHub Stats Card
+
+
 ![Islom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkromboyevIslom2012&show_icons=true&theme=radical)
 
 ---
