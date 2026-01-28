@@ -27,19 +27,21 @@ Mening asosiy maqsadim — frontend sohasida yuqori darajadagi mutaxassis boʻli
 
 ---
 
-## 🚀 Loyihalarni O'rnatish (Installation Example) | 🚀 Project Installation
+### 🚀 Loyihalarni O'rnatish (Installation Example) | 🚀 Project Installation
 
-Agar mening loyihalarimdan birini kompyuteringizda ishga tushirmoqchi boʻlsangiz, quyidagi umumiy qadamlarni bajaring: | If you want to run one of my projects on your local machine, follow these general steps:
+Agar mening loyihalarimdan birini kompyuteringizda ishga tushirmoqchi bo'lsangiz, quyidagi umumiy qadamlarni bajaring: | If you want to run one of my projects on your local machine, follow these general steps:
 
 ```bash
 # Omborni klonlash | Clone the repository
-git clone https://github.com
+git clone [https://github.com/IkromboyevIslom2012/LOYIHA_NOMI.git](https://github.com/IkromboyevIslom2012/LOYIHA_NOMI.git)
 
 # Loyiha papkasiga o'tish | Navigate into the project folder
-cd IkromboyevIslom2012
+cd LOYIHA_NOMI
 
-# Kerakli bog'liqliklarni o'rnatish | Install dependencies (e.g., for React projects)
+# Kerakli bog'liqliklarni o'rnatish | Install dependencies
 npm install
 
 # Loyihani ishga tushirish | Start the project
 npm start
+
+`![Frontend Badge](https://img.shields.io/badge/Frontend-in%20progress-brightgreen?style=flat-square&logo=react)`
