@@ -1,4 +1,4 @@
-![Frontend Status](https://img.shields.io/badge/Status-Frontend%20developer%20in%20progress..-brightgreen?style=for-the-badge&logo=frontendmasters&logoColor=white)
+![Typing SVG](https://readme-typing-svg.heroukuapp.com?size=24&color=00F700&lines=Frontend+Developer+in+Progress....)
 
 # 👋 Salom, Men Ikromboyev Islomman! | 👋 Hello, I'm Ikromboyev Islom!
 
