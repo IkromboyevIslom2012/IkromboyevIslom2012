@@ -27,6 +27,11 @@ Mening asosiy maqsadim — frontend sohasida yuqori darajadagi mutaxassis boʻli
 
 ---
 
+⚡ GitHub Stats Card
+![Islom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkromboyevIslom2012&show_icons=true&theme=radical)
+
+---
+
 ### 🚀 Loyihalarni O'rnatish (Installation Example) | 🚀 Project Installation
 
 Agar mening loyihalarimdan birini kompyuteringizda ishga tushirmoqchi bo'lsangiz, quyidagi umumiy qadamlarni bajaring: | If you want to run one of my projects on your local machine, follow these general steps:
@@ -44,4 +49,4 @@ npm install
 # Loyihani ishga tushirish | Start the project
 npm start
 
-`![Frontend Badge](https://img.shields.io/badge/Frontend-in%20progress-brightgreen?style=flat-square&logo=react)`
+
