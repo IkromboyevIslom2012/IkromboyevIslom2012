@@ -1,4 +1,7 @@
-![Frontend developer in progress](https://img.shields.io)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com..." alt="Typing SVG" />
+</p>
+
 
 
 # 👋 Salom, Men Ikromboyev Islomman! | 👋 Hello, I'm Ikromboyev Islom!
