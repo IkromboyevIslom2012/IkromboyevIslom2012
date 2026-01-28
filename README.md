@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.heroukuapp.com?size=24&color=00F700&lines=Frontend+Developer+in+Progress....)
+![Typing SVG](https://readme-typing-svg.heroukuapp.com?size=24&color=00F700&lines=Frontend+Developer+in+Progress......)
 
 # 👋 Salom, Men Ikromboyev Islomman! | 👋 Hello, I'm Ikromboyev Islom!
 
